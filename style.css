@@ -71,10 +71,10 @@ h1{
     }
     .todo-display,
     .input-todo {
-        grid-template-columns: 100px 65px 65px;
+        grid-template-columns: 100px 65px 50px;
         gap: 8px;
     }
     .dates{
-        font-size: 10px;
+        font-size: 5px;
     }
 }
