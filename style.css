@@ -58,9 +58,7 @@ h1{
 }
 
 @media (max-width : 480px) {
-    body{
-        font-size: 1rem;
-    }
+    
     .todo-list-display {
 
         width: 300px;
@@ -75,5 +73,8 @@ h1{
     .input-todo {
         grid-template-columns: 100px 65px 65px;
         gap: 8px;
+    }
+    .dates{
+        font-size: 10px;
     }
 }
