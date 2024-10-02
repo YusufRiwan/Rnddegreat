@@ -38,6 +38,6 @@ function addTodo(){
         name,
         dueDate
     })
-    todo.value = '';
+    todolist.value = '';
     renderTodoList();
 };
